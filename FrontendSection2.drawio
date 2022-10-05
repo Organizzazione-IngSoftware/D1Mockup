@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T13:49:03.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="9Lo_xqYVtgVSdLKZN_Oh" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T13:50:47.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_PHO2AOcglzkM9y8bpqD" version="20.4.0" type="github">
   <diagram id="Jk-wvNqEemEtfyx5iwzS" name="Pagina-1">
-    <mxGraphModel dx="7671" dy="4094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3702" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="-1882" y="-492" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LN73pdlZS_N3Gmanz3CM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="-804.5" width="630" height="312.5" as="geometry" />
+          <mxGeometry x="-1170" y="-804.5" width="630" height="324.5" as="geometry" />
         </mxCell>
         <mxCell id="LN73pdlZS_N3Gmanz3CM-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1170" y="-804.5" width="630" height="40" as="geometry" />
@@ -75,6 +75,9 @@
         </mxCell>
         <mxCell id="LN73pdlZS_N3Gmanz3CM-13" value="La tua lista:" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1144" y="-745" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LN73pdlZS_N3Gmanz3CM-14" value="La tua lista / Da vedere in futuro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1162.63" y="-431" width="242.63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
