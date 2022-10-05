@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T14:16:28.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="yBixD-IOjxN77e3PAAmu" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T14:24:44.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="anHlBatSwL2ENMuf0RuN" version="20.4.0" type="github">
   <diagram id="_929gedBTHypFflD35cN" name="Pagina-1">
-    <mxGraphModel dx="3702" dy="3010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3470" dy="2882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,8 +91,8 @@
         <mxCell id="ETqJJ7NgOqZb_16_8nuN-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" parent="1" vertex="1">
           <mxGeometry x="-1423.6200000000001" y="-1041" width="158.5" height="228" as="geometry" />
         </mxCell>
-        <mxCell id="ETqJJ7NgOqZb_16_8nuN-41" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Titolo&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="-1198.1200000000001" y="-1036" width="240" height="30" as="geometry" />
+        <mxCell id="ETqJJ7NgOqZb_16_8nuN-41" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Titolo,&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
+          <mxGeometry x="-1198.12" y="-1036" width="48.12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ETqJJ7NgOqZb_16_8nuN-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-1193.2500000000002" y="-1006" width="20" height="15" as="geometry" />
@@ -504,6 +504,9 @@
         </mxCell>
         <mxCell id="i_yxWiTu0mZsrCQGqGOw-67" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/sms-128.png;labelBorderColor=none;comic=0;fontSize=15;fontColor=#000000;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-926.1199999999997" y="-1330.2900000000002" width="20.59" height="20.59" as="geometry" />
+        </mxCell>
+        <mxCell id="i_yxWiTu0mZsrCQGqGOw-70" value="Anno di produzione" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;comic=0;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-1145" y="-1036" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
